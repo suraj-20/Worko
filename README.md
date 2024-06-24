@@ -15,16 +15,17 @@
    ```bash
    npm install
 
-#Completed All the points provided to create api
+#### Completed All the points provided to create api
 
-1. Create a NodeJs project with MVC architecture
+Backend Api Setup
+- 1. Create a NodeJs project with MVC architecture
     a. Create controller layer
     b. Create Service layer
     c. Create DAO layer
     d. Create Models for CRUD operations
     e. Create DTO for Request and response
     f. Add Validator framework
-2. Create API:
+- 2. Create API:
     a. Create API for resource /worko/user
        i. GET – list user
        ii. GET - /worko/user/:userId - get user details
@@ -49,5 +50,5 @@
     e. Write Unit tests with at least 60% coverage
     f. Prepare Readme/getting started guide 
 
-##Authentication
+#### Authentication
   ###Implement basic authentication for all the APIs
