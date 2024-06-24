@@ -18,14 +18,14 @@
 #### Completed All the points provided to create api
 
 Backend Api Setup
-- 1. Create a NodeJs project with MVC architecture
+- 1.Create a NodeJs project with MVC architecture
    - a. Create controller layer
    - b. Create Service layer
    - c. Create DAO layer
    - d. Create Models for CRUD operations
    - e. Create DTO for Request and response
    - f. Add Validator framework
-- 2. Create API:
+- 2.Create API:
    - a. Create API for resource /worko/user
       - i. GET – list user
       - ii. GET - /worko/user/:userId - get user details
@@ -51,4 +51,4 @@ Backend Api Setup
    - f. Prepare Readme/getting started guide 
 
 #### Authentication
- - a. Implement basic authentication for all the APIs
+ - 1.Implement basic authentication for all the APIs
